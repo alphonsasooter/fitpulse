@@ -1,4 +1,4 @@
-# fitness-tracker
+# fitpulse
 Frontend-only version of a future full-stack fitness tracking system.
 # Fitness Tracker Dashboard
 
